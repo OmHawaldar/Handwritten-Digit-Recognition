@@ -2,13 +2,6 @@
 
 This project implements a Handwritten Digit Recognition system using the MNIST dataset. It uses TensorFlow, OpenCV, and Pygame to train a model and later recognize digits drawn in a Pygame window.
 
-## Table of Contents
-- [Project Setup](#project-setup)
-- [Dependencies](#dependencies)
-- [Model Training](#model-training)
-- [Using the Model in Pygame](#using-the-model-in-pygame)
-- [How to Run](#how-to-run)
-
 ---
 
 ## Project Setup
