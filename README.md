@@ -28,4 +28,6 @@ This project implements a Handwritten Digit Recognition system using the MNIST d
 **4. Running the Application:**
    * Run the Python script to start the Pygame application.
    * Draw digits in the window and observe the model's predictions.
+
+     
 **For further assistance or to discuss specific implementation details, feel free to contact Om Hawaldar at hawaldarom39@gmail.com .**
