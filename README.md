@@ -6,7 +6,7 @@ This project implements a Handwritten Digit Recognition system using the MNIST d
 
 ## Project Setup
 
-**1. Setting Up the Environment:**
+**1. Setting Up the Environment and install dependencies:**
    * **Virtual Environment:**
      - Activate the virtual environment:
        - Windows: `digit-recognition-env\Scripts\activate`
